@@ -1,7 +1,7 @@
 {
     "name": "rollup-plugin-body-iife",
-    "version": "1.0.0-beta4",
-    "description": "Transform a script file with imports into valid ES",
+    "version": "1.0.0",
+    "description": "Transform a script file with imports and early returns into valid ES",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
